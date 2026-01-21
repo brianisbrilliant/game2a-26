@@ -1,0 +1,2 @@
+# game2a-26
+first unreal project for game desing 2 at wichita state.
